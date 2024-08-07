@@ -19,6 +19,4 @@ Parts list.
 
 34x hot swap sockets
 
-34x 1n4148w SOD-123 diodes
-
 34x Cherry MX style switches
