@@ -20,3 +20,5 @@ Parts list.
 34x hot swap sockets
 
 34x Cherry MX style switches
+
+Check out the [firmware](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/VIAL-QMK/under1hundo)
